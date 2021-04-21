@@ -1,8 +1,9 @@
 # Audio Feature Integrator
 
 Temporal Feature Integrator for Audio Analysis (STi - ETi - ADi - FTi), as presented in the following papers:  
-http://bit.ly/2YuawC6  
-http://bit.ly/2LEsvo5  
+https://bit.ly/3tBuGuc
+https://bit.ly/32xBwor
+https://bit.ly/3n745CT
 
 The implementations are powered by Excel+VBA and MATLAB.
 
